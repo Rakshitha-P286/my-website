@@ -49,7 +49,7 @@ The project focuses on creating a user-friendly and scalable online ordering sys
 - Dynamic Data Storage
 
 ## ⚙️ System Workflow
-
+```text
 User Visits Website
         ↓
 Browse Construction Materials
